@@ -16,10 +16,16 @@
 
 ## 🛠️ Skills
 - Manual Testing  
-- API Testing (Postman)  
+- API Testing (Postman)
+-  Exploratory Testing
+-  Regression Testing
+-  Functional Testing
 - Test Case Design  
 - Bug Reporting  
-- Automation Testing (Basic)  
+- Automation Testing (Basic)
+-  Requirement Analysis
+-  Java Programming
+-  C Programming
 
 ---
 
