@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Ahmed Lotfy 👋
 
-<!--
-**AhmedLotfy72/AhmedLotfy72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering Graduate  
+💻 Junior Software Tester  
+📍 Based in Egypt  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- Passionate about Software Testing and Quality Assurance  
+- Skilled in Manual and API Testing  
+- Basic knowledge in Automation Testing (Selenium)  
+- Looking for opportunities in QA field  
+
+---
+
+## 🛠️ Skills
+- Manual Testing  
+- API Testing (Postman)  
+- Test Case Design  
+- Bug Reporting  
+- Automation Testing (Basic)  
+
+---
+
+## 📂 Projects
+- E-commerce web application , Automation Testing 
+- Online Shopping Website, Automation Testing
+-Pet Store & Restful Booker , API Testing
+-E-commerce Website , Test Cases Design
+-Net Banking Project , Manual Testing
+
+---
+
+## 📫 Contact
+- Email: Ahmed.lotfy2701@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/ahmed-lotfy-8a366b219/
