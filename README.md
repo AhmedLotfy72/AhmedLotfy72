@@ -26,10 +26,9 @@
 ## 📂 Projects
 - E-commerce web application , Automation Testing 
 - Online Shopping Website, Automation Testing
--Pet Store & Restful Booker , API Testing
--E-commerce Website , Test Cases Design
--Net Banking Project , Manual Testing
-
+- Pet Store & Restful Booker , API Testing
+- E-commerce Website , Test Cases Design
+- Net Banking Project , Manual Testing
 ---
 
 ## 📫 Contact
